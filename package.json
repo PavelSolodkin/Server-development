@@ -1,0 +1,29 @@
+{
+  "name": "sprint12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.9169b528d1e2c100e380.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelSolodkin/Sprint12.git"
+  },
+  "author": "pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelSolodkin/Sprint12/issues"
+  },
+  "homepage": "https://github.com/PavelSolodkin/Sprint12#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
